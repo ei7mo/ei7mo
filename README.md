@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend projects<br>⚡ Fun fact I like clean code and pixel-perfect designs
+🎓 IT student at Aqaba University of Technology (GPA: 3.32/4.0)
+💻 Building full-stack projects with JavaScript, Python, C++, and C#
+🔍 Looking for a junior developer role where I can grow and contribute
+⚡ I automate things — wrote Batch scripts to handle session cleanup for 20+ gaming PCs
 
 ![](https://komarev.com/ghpvc/?username=ei7mo&color=yellow&abbreviated=true)
 
